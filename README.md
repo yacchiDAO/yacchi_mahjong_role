@@ -1,2 +1,2 @@
-# yacchi_mahjong_role
+# yacchi_mahjong_rule
 やっち家の麻雀ルールブック
